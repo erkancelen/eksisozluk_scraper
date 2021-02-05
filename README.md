@@ -1,6 +1,6 @@
-# Analyzing Public Perception of Turkey's Controversial President Erdogan
+# Visualizing Entries of Turkey's Political Leaders
 
-The aim of this project is to find out what Turkish people have said about their leaders on the internet or perhaps, how they feel about them and what they think of them.
+The aim of this project is to find out what Turkish people have said the most about their leaders on a public internet forum, eksisozluk.
 
 ## 1. EksiSozluk (sour dictionary) and Data
 
@@ -1307,3 +1307,5 @@ plt.axis("off")
 plt.savefig('rte.png', bbox_inches='tight')
 plt.show()
 ```
+
+
